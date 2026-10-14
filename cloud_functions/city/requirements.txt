@@ -1,0 +1,8 @@
+functions-framework
+pandas
+requests
+beautifulsoup4
+lat-long-parser
+sqlalchemy
+pymysql
+cryptography

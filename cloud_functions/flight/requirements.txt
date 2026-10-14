@@ -1,0 +1,6 @@
+functions-framework
+pandas
+requests
+sqlalchemy
+pymysql
+cryptography
